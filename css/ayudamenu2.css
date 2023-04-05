@@ -1,0 +1,23 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+
+}
+  .imagen-1 {
+    width: 350px;
+    height: 250px;
+    position: relative;
+    border: black 2px solid;
+    margin-right: 100px;
+    bottom: -300px;
+    background-color: rgb(166, 179, 179);
+  }
+  .imagen-2 {
+    width: 350px;
+    height: 250px;
+    position: relative;
+    border: black 1px solid;
+    margin-right: 100px;
+    bottom: -300px;
+    background-color: rgb(166, 179, 179);
+  }
